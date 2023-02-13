@@ -1,0 +1,11 @@
+- Create a start button
+   - Event listnener in it
+   - on click th etimer will start counting up
+   - on click, the first questino will appear alongside the options
+   - each option is a button
+   - if the selectd option === false, timer goes up by 5 seconds
+
+Questions:
+
+- an objects for questions
+- 
